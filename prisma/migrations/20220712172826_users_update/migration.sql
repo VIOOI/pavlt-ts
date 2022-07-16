@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "users" ALTER COLUMN "user_birdth_date" SET DEFAULT CURRENT_TIMESTAMP;
